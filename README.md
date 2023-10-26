@@ -6,7 +6,7 @@ I'm French 🇫🇷, living in Toronto, Canada. I am a data scientist in healthc
 - was in charge of RSV preclinical statistical studies.<br>
 
 ⚡ I love sports: practising and watching!<br>
-📫 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-rotureau-8a4238138/) ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) alexisrotureau@gmail.com
+📫 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-rotureau-8a4238138/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexisrotureau@gmail.com)
 
 
 ### Conferences and publications
@@ -15,11 +15,10 @@ I'm French 🇫🇷, living in Toronto, Canada. I am a data scientist in healthc
   
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 SAS, JMP
 
 ### AI technologies
 Deep Learning - CNNs - NLP - TensorFlow - Word Embedding - ANN - MAchine Learning 
-Here are some ideas to get you started:
