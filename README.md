@@ -5,6 +5,7 @@ I'm French 🇫🇷, living in Toronto, Canada. I am a data scientist in healthc
 - developed a R package and R Shiny app to autoamte reporting of statistical analysis.
 - was in charge of RSV preclinical statistical studies.<br>
 
+💥 Woking on analyzing my Garming activities and sleep 
 ⚡ I love sports: practising and watching!<br>
 📫 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-rotureau-8a4238138/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexisrotureau@gmail.com)
 
