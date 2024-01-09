@@ -1,6 +1,6 @@
 ### Hi, I am Alexis Rotureau👋
 
-I'm French 🇫🇷, living in Toronto, Canada. I am a data scientist in healthcare.
+I'm French 🇫🇷, living in Toronto, Canada. I am a AI engineer in healthcare.
 
 💥 Woking on analyzing my Garmin activities and sleep data. <br>
 ⚡ I love sports: practising and watching!<br>
