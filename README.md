@@ -5,8 +5,16 @@ I'm French 🇫🇷, living in Toronto, Canada. I am a AI engineer in healthcare
 💥 Participating in [LabLab.ai](https://lablab.ai/event/nextgen-gpt-ai-hackathon) hackathons on LLMs. Check the our last submission on ![Galen AI biomedical assisant](https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/galen/galen-an-ai-medical-assistant) to detect and prevent skin cancer. [GitHub repo](https://github.com/guy-977/galen-mixtral-hackathon). <br>
 💥 Woking on analyzing my Garmin activities and sleep data. <br>
 ⚡ I love sports: practising and watching!<br>
-📫 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-rotureau-8a4238138/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexisrotureau@gmail.com)
 
+
+### Contacts
+- LinkedIn: [Alexis Rotureau](https://www.linkedin.com/in/alexis-rotureau-8a4238138/)
+- Email: [alexisrotureau@gmail.com](alexisrotureau@gmail.com)
+
+
+
+### GitHub Stats
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisRTR&show_icons=true&theme=transparent&hide_border=true)
 
 Over the last 3 years, I:
 - built a search engine from scratch for internal documentation at Sanofi (end-to-end pipelines to preprocess documents, indexation, querying and interface).
