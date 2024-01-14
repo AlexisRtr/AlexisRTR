@@ -15,6 +15,8 @@ I'm French 🇫🇷, living in Toronto, Canada. I am a AI engineer in healthcare
 
 ### GitHub Stats
 ![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisRTR&show_icons=true&theme=transparent&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisRTR&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisRTR&langs_count=8)
 
 Over the last 3 years, I:
 - built a search engine from scratch for internal documentation at Sanofi (end-to-end pipelines to preprocess documents, indexation, querying and interface).
