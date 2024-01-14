@@ -2,7 +2,7 @@
 
 I'm French 🇫🇷, living in Toronto, Canada. I am a AI engineer in healthcare.
 
-💥 Participating in [LabLab.ai](https://lablab.ai/event/nextgen-gpt-ai-hackathon) hackathons on LLMs. Check the our last submission on ![Galen AI biomedical assisant](https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/galen/galen-an-ai-medical-assistant) to detect and prevent skin cancer. [repo](https://github.com/guy-977/galen-mixtral-hackathon). <br>
+💥 Participating in [LabLab.ai](https://lablab.ai/event/nextgen-gpt-ai-hackathon) hackathons on LLMs. Check the our last submission on ![Galen AI biomedical assisant](https://lablab.ai/event/mixtral-8x7b-24-hours-challenge/galen/galen-an-ai-medical-assistant) to detect and prevent skin cancer. [GitHub repo](https://github.com/guy-977/galen-mixtral-hackathon). <br>
 💥 Woking on analyzing my Garmin activities and sleep data. <br>
 ⚡ I love sports: practising and watching!<br>
 📫 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-rotureau-8a4238138/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexisrotureau@gmail.com)
