@@ -10,15 +10,10 @@ I'm French 🇫🇷, living in Toronto, Canada. I am a AI engineer in healthcare
 ### Contacts
 - LinkedIn: [Alexis Rotureau](https://www.linkedin.com/in/alexis-rotureau-8a4238138/)
 - Email: [alexisrotureau@gmail.com](alexisrotureau@gmail.com)
-- 
+  
 
 
-
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisRTR&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisRTR&langs_count=8)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexisRTR)](https://github.com/AlexisRTR/github-readme-stats)
-
+### Summary 
 Over the last 3 years, I:
 - built a search engine from scratch for internal documentation at Sanofi (end-to-end pipelines to preprocess documents, indexation, querying and interface).
 - developed a R package and R Shiny app to autoamte reporting of statistical analysis.
@@ -27,6 +22,10 @@ Over the last 3 years, I:
 ### Conferences and publications
 - [Publication](https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwiCpZ-KooOCAxUdhIkEHeZGCsUQFnoECBIQAQ&url=https%3A%2F%2Fimt-mines-ales.hal.science%2Fhal-03330991%2Fdocument&usg=AOvVaw3DDunrR_71MJVEUdG2kTlX&opi=89978449) *Fish migration monitoring from audio detection with CNNs* [GitHub project](https://github.com/AlexisRtr/Deep-Learning-CNN-Fish-Monitoring/tree/main)
 - JSM 2023 Conference: *How to deal with non-responder groups in pre-clinical studies*
+
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexisRTR&show_icons=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisRTR&langs_count=8) <br>
   
 ### Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
